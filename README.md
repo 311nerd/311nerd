@@ -1,11 +1,11 @@
 <div align="center">
   <img height="100" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.com%2FxCc58fEqFREAAAAM%2Fnerd-nerdy.gif&f=1&nofb=1&ipt=5b581f595205b06af69464dcc41894c376b2783323c71eb10114b41b9123d23d&ipo=images"  />
+  <img src="https://komarev.com/ghpvc/?username=311nerd&color=grey" />
 </div>
 
 ###
 
 <h1 align="center">hi 1337</h1>
-<img src="https://komarev.com/ghpvc/?username=311nerd&color=grey" />
 ###
 
 <h4 align="left">14y Beginner Developer<br>Learning python, js, php, golang and C<br>1337 😫</h4>
