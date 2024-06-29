@@ -5,7 +5,6 @@
 ###
 
 <h1 align="center">hi 1337</h1>
-###
 
 <h4 align="left">14y Beginner Developer<br>Learning python, js, php, golang and C<br>1337 😫</h4>
 
