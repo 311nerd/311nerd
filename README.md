@@ -5,7 +5,7 @@
 ###
 
 <h1 align="center">hi 1337</h1>
-
+<img src="https://komarev.com/ghpvc/?username=311nerd&color=grey" />
 ###
 
 <h4 align="left">14y Beginner Developer<br>Learning python, js, php, golang and C<br>1337 😫</h4>
@@ -38,7 +38,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=311nerd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=graywhite&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://komarev.com/ghpvc/?username=311nerd&color=grey" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=311nerd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=graywhite&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=311nerd&locale=en&mode=daily&theme=graywhite&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=311nerd&radius=16&theme=minimal&area=true&order=5" height="300" alt="activity-graph graph"  />
