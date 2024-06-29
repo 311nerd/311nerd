@@ -18,6 +18,14 @@
 
 ###
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=311nerd&color=grey" />
+</div> 
+
+###
+
+###
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
