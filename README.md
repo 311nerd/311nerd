@@ -1,24 +1,4 @@
 <div align="center">
-  <img height="100" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.com%2FxCc58fEqFREAAAAM%2Fnerd-nerdy.gif&f=1&nofb=1&ipt=5b581f595205b06af69464dcc41894c376b2783323c71eb10114b41b9123d23d&ipo=images"  />
-</div>
-
-###
-
-<h1 align="center">hi 1337</h1>
-
-<h4 align="left">Beginner Developer<br>Learning python, js, php, golang and C<br>1337 😫</h4>
-
-###
-
-<div align="center">
-  <a href="https://discord.gg/HqdZGq56r7" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
   <img src="https://komarev.com/ghpvc/?username=311nerd&color=grey" />
 </div> 
 
